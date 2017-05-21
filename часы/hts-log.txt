@@ -1,0 +1,16 @@
+HTTrack3.49-1+htsswf+htsjava launched on Sun, 21 May 2017 18:37:50 at http://onewow.ru/landings/kids_GPS/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%P%h%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://onewow.ru/landings/kids_GPS/ -O1 "C:\Users\Администратор.000\Desktop\часы" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:37:51	Warning: 	Note: due to onewow.ru remote robots.txt rules, links beginning with these path will be forbidden: /landings/, /1-1.html, /1-2.html, /1-3.html, /1-4.html, /1-5.html, /1-6.html, /1-7.html, /1-8.html, /1-9.html, /1-10.html, /1-11.html, /2-1.html, /2-2.html, /2-3.html, /4-1.html, /4-2.html, /7-1.html, /7-2.html (see in the options to disable this)
+18:37:54	Error: 	"Not Found" (404) at link onewow.ru/css/custom-styles.min.css (from onewow.ru/landings/kids_GPS/)
+18:37:54	Error: 	"Not Found" (404) at link onewow.ru/js/custom-functions.min.js (from onewow.ru/landings/kids_GPS/)
+18:37:54	Error: 	"Not Found" (404) at link onewow.ru/js/sisyphus.min.js?v=2 (from onewow.ru/landings/kids_GPS/)
+18:37:54	Error: 	"Not Found" (404) at link onewow.ru/js/form.custom.js?v=3 (from onewow.ru/landings/kids_GPS/)
+
+HTTrack Website Copier/3.49-1 mirror complete in 4 seconds : 7 links scanned, 2 files written (123126 bytes overall) [126528 bytes received at 31632 bytes/sec]
+(4 errors, 1 warnings, 0 messages)
